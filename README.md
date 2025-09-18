@@ -12,36 +12,31 @@ Me apasiona crear soluciones que sean útiles, escalables y fáciles de mantener
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-- **Lenguajes y Web:** PHP · JavaScript · HTML · CSS · SQL  
-- **Frameworks & Librerías:** Laravel · Bootstrap  
-- **Bases de datos:** MySQL · PostgreSQL  
-- **Automatización y Flujos:** n8n  
-- **Herramientas & DevOps:** Git · Docker
+- **Lenguajes y Web:** PHP - JavaScript - HTML - CSS - SQL  
+- **Frameworks & Librerías:** Laravel - Bootstrap  
+- **Bases de datos:** MySQL - PostgreSQL  
+- **Automatización y Flujos:** N8N  
+- **Herramientas & DevOps:** Git - Docker
+- **IA:** OpenAI - Claude - Gemini
+- **Integraciones:** Web - Telegram - WhatsApp - E-mail
 
 ---
 
 ### 📂 Proyectos Destacados
-- **[BondiRT](#)** → Sistema de gestión de colectivos para Rada Tilly.  
-- **[FarmaTurno](#)** → Aplicación que muestra la farmacia de turno diaria.  
-- **[Calela Mercería](#)** → Gestión de arreglos y ventas diarias.  
-- **[Boletería Municipalidad Rada Tilly](#)** → Sistema de tickets y control de ventas.  
-- **[Observaciones Preventivas Incro](#)** → Gestión de observaciones en entornos industriales.  
-- **[Reservas para barbería](#)** → Sistema de reservas online para barberías.  
-- **[Sitios web de presentación](#)** → Desarrollo de páginas web personalizadas.
-
----
-
-### 📊 Estadísticas
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TomasCaniza&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCaniza&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+- **BondiRT** → Sistema de gestión de colectivos para Rada Tilly.  
+- **FarmaTurno** → Aplicación que muestra la farmacia de turno diaria.  
+- **Calela Mercería** → Gestión de arreglos y ventas diarias.  
+- **Boletería Municipalidad Rada Tilly** → Sistema de tickets y control de ventas.
+- **Licencias Municipalidad Rada Tilly** → Sistema de gestión de licencias de conducir.  
+- **Observaciones Preventivas Incro** → Gestión de observaciones en entornos industriales.  
+- **Reservas para barbería** → Sistema de reservas online para barberías.  
+- **Sitios web de presentación** → Desarrollo de páginas web personalizadas.
 
 ---
 
 ### 📫 Contacto
 - 📧 **Email:** [tomascaniza6@gmail.com](mailto:tomascaniza6@gmail.com)  
-- 📱 **Teléfono:** +54 9 297 4291122  
+- 📱 **Teléfono:** [+54 9 2974291122](https://api.whatsapp.com/send/?phone=5492974291122)  
 - 💼 **LinkedIn:** [linkedin.com/in/tomascaniza](https://www.linkedin.com/in/tomascaniza/)  
 
 ---
